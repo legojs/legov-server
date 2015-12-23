@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/legojs/legov-server#readme",
   "dependencies": {
+    "chalk": "^1.1.1",
+    "hexo-fs": "^0.1.5",
     "http-proxy": "^1.12.0",
     "js-yaml": "^3.4.6"
   }
